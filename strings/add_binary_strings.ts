@@ -1,4 +1,4 @@
-class Solution {
+class Add_Binary_String {
     
     removeTailingZeros(s:string){
         return s.slice(s.indexOf('1'))
