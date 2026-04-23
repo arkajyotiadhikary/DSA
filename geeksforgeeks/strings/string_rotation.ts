@@ -1,17 +1,11 @@
 class String_Rotation {
-    areRotations(s1:string, s2:string) {
-        if(s1.length !== s2.length){
+    areRotations(s1:string, s2:string):bool {
+        if(s2.length > s1.length)
             return false
-        }
         
-        const boubleds1 = s1 + s1
+        const doubled = s1 + s1
+
+        return doubled.includes(s2)
         
-        if(boubleds1.includes(s2))
-        {
-            return true
-        }
-        
-        
-        return false
     }
 }
