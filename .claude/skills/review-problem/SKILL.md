@@ -14,6 +14,8 @@ Use WebFetch to load https://github.com/arkajyotiadhikary/DSA
 Check subfolders:
 - https://github.com/arkajyotiadhikary/DSA/tree/main/leetcode
 - https://github.com/arkajyotiadhikary/DSA/tree/main/geeksforgeeks
+- https://github.com/arkajyotiadhikary/DSA/tree/main/hackerrank
+- https://github.com/arkajyotiadhikary/DSA/tree/main/interviewbit
 
 Build a list of every solved problem (by filename, LeetCode number, or problem name). These are TypeScript files.
 
