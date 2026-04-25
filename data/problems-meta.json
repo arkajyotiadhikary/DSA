@@ -71,6 +71,13 @@
       "patterns": ["Array", "Math", "Two Pointers"],
       "companies": ["Apple", "Amazon", "Microsoft", "Bloomberg", "Google"]
     },
+    "leetcode/121_best_time_to_buy_and_sell_stock.ts": {
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Dynamic Programming"],
+      "companies": ["Amazon", "Apple", "Bloomberg", "NVIDIA", "Google"]
+    },
     "geeksforgeeks/arrays/majority_element_II.ts": {
       "title": "Majority Element - More Than n/3",
       "difficulty": "Medium",
