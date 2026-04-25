@@ -2,9 +2,9 @@
 <rect width="900" height="760" fill="#0d1117"/>
 <rect x="1" y="1" width="898" height="758" fill="none" stroke="#30363d" rx="8"/>
 <text x="24" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="#e6edf3" text-anchor="start">DSA Practice Stats</text>
-<text x="24" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Updated 2026-04-25 13:41 UTC • 18 problems, 0 practice sessions</text>
+<text x="24" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Updated 2026-04-25 16:48 UTC • 19 problems, 0 practice sessions</text>
 <rect x="24" y="80" width="207" height="74" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="38" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#58a6ff" text-anchor="start">18</text>
+<text x="38" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#58a6ff" text-anchor="start">19</text>
 <text x="38" y="138" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Problems Solved</text>
 <rect x="239" y="80" width="207" height="74" rx="6" fill="#161b22" stroke="#30363d"/>
 <text x="253" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#3fb950" text-anchor="start">0</text>
@@ -22,8 +22,8 @@
 <text x="876" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="end">9</text>
 <text x="24" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start">geeksforgeeks</text>
 <rect x="140" y="220" width="660" height="16" rx="3" fill="#161b22" opacity="1"/>
-<rect x="140" y="220" width="586.6666666666666" height="16" rx="3" fill="#58a6ff" opacity="1"/>
-<text x="876" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="end">8</text>
+<rect x="140" y="220" width="660" height="16" rx="3" fill="#58a6ff" opacity="1"/>
+<text x="876" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="end">9</text>
 <text x="24" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start">hackerrank</text>
 <rect x="140" y="242" width="660" height="16" rx="3" fill="#161b22" opacity="1"/>
 <rect x="140" y="242" width="73.33333333333333" height="16" rx="3" fill="#58a6ff" opacity="1"/>
@@ -33,12 +33,12 @@
 <text x="876" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="end">0</text>
 <text x="24" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#8b949e" text-anchor="start">BY DIFFICULTY</text>
 <rect x="24" y="314" width="852" height="18" rx="3" fill="#161b22" opacity="1"/>
-<rect x="24" y="314" width="662.6666666666666" height="18" rx="3" fill="#3fb950" opacity="1"/>
-<rect x="686.6666666666666" y="314" width="189.33333333333334" height="18" rx="3" fill="#d29922" opacity="1"/>
+<rect x="24" y="314" width="627.7894736842105" height="18" rx="3" fill="#3fb950" opacity="1"/>
+<rect x="651.7894736842105" y="314" width="224.21052631578948" height="18" rx="3" fill="#d29922" opacity="1"/>
 <rect x="24" y="340" width="10" height="10" rx="2" fill="#3fb950"/>
 <text x="40" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Easy 14</text>
 <rect x="124" y="340" width="10" height="10" rx="2" fill="#d29922"/>
-<text x="140" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Medium 4</text>
+<text x="140" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Medium 5</text>
 <rect x="224" y="340" width="10" height="10" rx="2" fill="#f85149"/>
 <text x="240" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Hard 0</text>
 <rect x="324" y="340" width="10" height="10" rx="2" fill="#6e7681"/>
@@ -48,38 +48,38 @@
 <text x="24" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Array</text>
 <rect x="164" y="392" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
 <rect x="164" y="392" width="248" height="14" rx="3" fill="#58a6ff" opacity="1"/>
-<text x="438" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">11</text>
+<text x="438" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">12</text>
 <text x="458" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Array</text>
 <rect x="598" y="392" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
 <rect x="598" y="392" width="248" height="14" rx="3" fill="#a371f7" opacity="1"/>
-<text x="872" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">12</text>
+<text x="872" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">13</text>
 <text x="24" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">String</text>
 <rect x="164" y="414" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
-<rect x="164" y="414" width="135.27272727272728" height="14" rx="3" fill="#58a6ff" opacity="1"/>
+<rect x="164" y="414" width="124" height="14" rx="3" fill="#58a6ff" opacity="1"/>
 <text x="438" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">6</text>
 <text x="458" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Two Pointers</text>
 <rect x="598" y="414" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
-<rect x="598" y="414" width="165.33333333333334" height="14" rx="3" fill="#a371f7" opacity="1"/>
-<text x="872" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">8</text>
+<rect x="598" y="414" width="171.69230769230768" height="14" rx="3" fill="#a371f7" opacity="1"/>
+<text x="872" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">9</text>
 <text x="24" y="448" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Sorting</text>
 <rect x="164" y="436" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
-<rect x="164" y="436" width="22.545454545454547" height="14" rx="3" fill="#58a6ff" opacity="1"/>
+<rect x="164" y="436" width="20.666666666666668" height="14" rx="3" fill="#58a6ff" opacity="1"/>
 <text x="438" y="448" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">1</text>
 <text x="458" y="448" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Sorting</text>
 <rect x="598" y="436" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
-<rect x="598" y="436" width="124" height="14" rx="3" fill="#a371f7" opacity="1"/>
+<rect x="598" y="436" width="114.46153846153847" height="14" rx="3" fill="#a371f7" opacity="1"/>
 <text x="872" y="448" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">6</text>
 <text x="458" y="470" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">String</text>
 <rect x="598" y="458" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
-<rect x="598" y="458" width="124" height="14" rx="3" fill="#a371f7" opacity="1"/>
+<rect x="598" y="458" width="114.46153846153847" height="14" rx="3" fill="#a371f7" opacity="1"/>
 <text x="872" y="470" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">6</text>
 <text x="458" y="492" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Hash Table</text>
 <rect x="598" y="480" width="248" height="14" rx="3" fill="#161b22" opacity="1"/>
-<rect x="598" y="480" width="103.33333333333333" height="14" rx="3" fill="#a371f7" opacity="1"/>
+<rect x="598" y="480" width="95.38461538461539" height="14" rx="3" fill="#a371f7" opacity="1"/>
 <text x="872" y="492" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">5</text>
 <text x="24" y="520" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#8b949e" text-anchor="start">MAANG INTERVIEW READINESS</text>
 <rect x="24" y="536" width="852" height="22" rx="3" fill="#161b22" opacity="1"/>
-<rect x="24" y="536" width="124.0279155279503" height="22" rx="3" fill="#a371f7" opacity="1"/>
+<rect x="24" y="536" width="124.53911552795029" height="22" rx="3" fill="#a371f7" opacity="1"/>
 <text x="32" y="551" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#e6edf3" text-anchor="start">14.6%</text>
 <text x="868" y="551" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">Just getting started</text>
 <text x="24" y="581" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Coverage (12/23 patterns)</text>
@@ -87,10 +87,10 @@
 <rect x="364" y="571" width="512" height="12" rx="3" fill="#161b22" opacity="1"/>
 <rect x="364" y="571" width="155.82608695652172" height="12" rx="3" fill="#a371f7" opacity="0.85"/>
 <text x="876" y="581" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">30%</text>
-<text x="24" y="599" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Volume (26 pts / 500)</text>
+<text x="24" y="599" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Volume (29 pts / 500)</text>
 <text x="314" y="599" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" fill="#8b949e" text-anchor="start">30%</text>
 <rect x="364" y="589" width="512" height="12" rx="3" fill="#161b22" opacity="1"/>
-<rect x="364" y="589" width="8.874666666666666" height="12" rx="3" fill="#a371f7" opacity="0.85"/>
+<rect x="364" y="589" width="9.898666666666667" height="12" rx="3" fill="#a371f7" opacity="0.85"/>
 <text x="876" y="599" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="end">2%</text>
 <text x="24" y="617" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#e6edf3" text-anchor="start">Retention (last 30d practice)</text>
 <text x="314" y="617" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" fill="#8b949e" text-anchor="start">15%</text>

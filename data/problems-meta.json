@@ -64,6 +64,13 @@
       "patterns": ["Hash Table", "String", "Sorting"],
       "companies": ["Bloomberg", "Amazon", "Microsoft", "Apple", "Uber"]
     },
+    "geeksforgeeks/arrays/rotate_array.ts": {
+      "title": "Rotate Array by N Elements",
+      "difficulty": "Medium",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers"],
+      "companies": []
+    },
     "geeksforgeeks/arrays/move_all_zeros_to_end.ts": {
       "title": "Move All Zeroes to End",
       "difficulty": "Easy",
