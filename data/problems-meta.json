@@ -1,0 +1,156 @@
+{
+  "$schema": "Per-problem metadata. Keys are repo-relative file paths. Edit difficulty/category/patterns/companies as needed.",
+  "problems": {
+    "leetcode/26_remove_duplicates.ts": {
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers"],
+      "companies": ["Microsoft", "Bloomberg", "Amazon", "Google", "Meta"]
+    },
+    "leetcode/27_remove_element.ts": {
+      "title": "Remove Element",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers"],
+      "companies": ["Google", "Microsoft", "Bloomberg", "Amazon", "Adobe"]
+    },
+    "leetcode/67_add_binary.ts": {
+      "title": "Add Binary",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["Math", "String", "Bit Manipulation", "Simulation"],
+      "companies": ["Amazon", "Google", "Microsoft", "Meta", "Bloomberg"]
+    },
+    "leetcode/75_sort_Colors.ts": {
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers", "Sorting"],
+      "companies": ["Amazon", "Microsoft", "Bloomberg", "TikTok", "NVIDIA"]
+    },
+    "leetcode/80_remove_duplicates_from_sorted_array_II.ts": {
+      "title": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers"],
+      "companies": ["Amazon"]
+    },
+    "leetcode/88_merge_sorted_array.ts": {
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers", "Sorting"],
+      "companies": ["Meta", "Amazon", "Google", "Microsoft", "Bloomberg"]
+    },
+    "leetcode/169_majority_element.ts": {
+      "title": "Majority Element",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Hash Table", "Divide and Conquer", "Counting", "Sorting"],
+      "companies": ["Microsoft", "Bloomberg", "Adobe", "Amazon", "Google"]
+    },
+    "leetcode/209_minimum_size_subarray_sum.ts": {
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "category": "Array",
+      "patterns": ["Array", "Binary Search", "Sliding Window", "Prefix Sum"],
+      "companies": ["Amazon", "Microsoft", "Bloomberg", "TikTok", "NVIDIA"]
+    },
+    "leetcode/242_valid_anagram.ts": {
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["Hash Table", "String", "Sorting"],
+      "companies": ["Bloomberg", "Amazon", "Microsoft", "Apple", "Uber"]
+    },
+    "geeksforgeeks/arrays/move_all_zeros_to_end.ts": {
+      "title": "Move All Zeroes to End",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers"],
+      "companies": []
+    },
+    "geeksforgeeks/arrays/reverse_an_array.ts": {
+      "title": "Reverse an Array",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Two Pointers"],
+      "companies": []
+    },
+    "geeksforgeeks/arrays/second_largest.ts": {
+      "title": "Second Largest",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array"],
+      "companies": []
+    },
+    "geeksforgeeks/sorting/sort_012.ts": {
+      "title": "Sort 0s, 1s and 2s",
+      "difficulty": "Medium",
+      "category": "Sorting",
+      "patterns": ["Array", "Sorting", "Two Pointers"],
+      "companies": []
+    },
+    "geeksforgeeks/strings/add_binary_strings.ts": {
+      "title": "Add Binary Strings",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["String", "Math", "Bit Manipulation"],
+      "companies": []
+    },
+    "geeksforgeeks/strings/anagrams.ts": {
+      "title": "Anagram",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["String", "Hash Table", "Sorting"],
+      "companies": []
+    },
+    "geeksforgeeks/strings/non_repeating_char.ts": {
+      "title": "Non Repeating Character",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["String", "Hash Table"],
+      "companies": []
+    },
+    "geeksforgeeks/strings/string_rotation.ts": {
+      "title": "Strings Rotations of Each Other",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["String", "String Matching"],
+      "companies": []
+    },
+    "hackerrank/sock-merchant.ts": {
+      "title": "Sales by Match",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Hash Table", "Counting"],
+      "companies": []
+    }
+  },
+  "corePatterns": [
+    "Two Pointers",
+    "Sliding Window",
+    "Hash Table",
+    "Sorting",
+    "Binary Search",
+    "Recursion",
+    "Dynamic Programming",
+    "Backtracking",
+    "Greedy",
+    "Stack",
+    "Queue",
+    "Linked List",
+    "Tree DFS/BFS",
+    "Graph DFS/BFS",
+    "Heap",
+    "Trie",
+    "Bit Manipulation",
+    "Math",
+    "Prefix Sum",
+    "Divide and Conquer",
+    "Counting",
+    "Simulation",
+    "String Matching"
+  ]
+}

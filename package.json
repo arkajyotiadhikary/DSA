@@ -1,0 +1,16 @@
+{
+  "name": "dsa-practice-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal DSA practice repo with auto-generated stats SVG.",
+  "type": "module",
+  "scripts": {
+    "stats": "tsx scripts/generate-svg.ts",
+    "practice": "tsx scripts/log-practice.ts",
+    "setup": "git config core.hooksPath hooks && chmod +x hooks/pre-commit && echo 'Hooks installed.'"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
