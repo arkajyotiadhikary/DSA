@@ -148,6 +148,13 @@
       "patterns": ["String", "String Matching"],
       "companies": []
     },
+    "leetcode/1768_merge_strings_alternately.ts": {
+      "title": "Merge Strings Alternately",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["Two Pointers", "String"],
+      "companies": ["Google", "Microsoft", "Amazon", "Meta", "Uber"]
+    },
     "hackerrank/sock-merchant.ts": {
       "title": "Sales by Match",
       "difficulty": "Easy",
