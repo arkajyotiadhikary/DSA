@@ -64,6 +64,13 @@
       "patterns": ["Hash Table", "String", "Sorting"],
       "companies": ["Bloomberg", "Amazon", "Microsoft", "Apple", "Uber"]
     },
+    "leetcode/189_rotate_array.ts": {
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "category": "Array",
+      "patterns": ["Array", "Math", "Two Pointers"],
+      "companies": ["Apple", "Amazon", "Microsoft", "Bloomberg", "Google"]
+    },
     "geeksforgeeks/arrays/rotate_array.ts": {
       "title": "Rotate Array by N Elements",
       "difficulty": "Medium",
