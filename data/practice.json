@@ -54,6 +54,11 @@
       "file": "leetcode/169_majority_element.ts",
       "date": "2026-04-26T13:28:58.519Z",
       "notes": "review session, hash map count+scan, misses O(1) follow-up — TODO: Boyer-Moore Voting"
+    },
+    {
+      "file": "leetcode/26_remove_duplicates.ts",
+      "date": "2026-04-26T13:45:23.474Z",
+      "notes": "review session, slow/fast two-pointer in-place dedup, p1 = boundary of kept region"
     }
   ]
 }
