@@ -24,6 +24,11 @@
       "file": "leetcode/189_rotate_array.ts",
       "date": "2026-04-26T06:36:21.683Z",
       "notes": "review session, three-reverse trick (reverse halves at pivot=n-k, then reverse whole), O(1) space"
+    },
+    {
+      "file": "leetcode/242_valid_anagram.ts",
+      "date": "2026-04-26T06:41:58.003Z",
+      "notes": "review session, hash map count+decrement, redundant has() check noted, int[26] better for ASCII"
     }
   ]
 }
