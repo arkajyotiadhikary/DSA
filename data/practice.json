@@ -44,6 +44,11 @@
       "file": "geeksforgeeks/strings/non_repeating_char.ts",
       "date": "2026-04-26T07:10:10.021Z",
       "notes": "review session, two-pass freq map, pass 2 should iterate s (not Map) to avoid insertion-order dependency"
+    },
+    {
+      "file": "geeksforgeeks/strings/string_rotation.ts",
+      "date": "2026-04-26T13:02:21.651Z",
+      "notes": "review session, s1+s1 contains s2 trick (any rotation), missing length-equality guard"
     }
   ]
 }
