@@ -49,6 +49,11 @@
       "file": "geeksforgeeks/strings/string_rotation.ts",
       "date": "2026-04-26T13:02:21.651Z",
       "notes": "review session, s1+s1 contains s2 trick (any rotation), missing length-equality guard"
+    },
+    {
+      "file": "leetcode/169_majority_element.ts",
+      "date": "2026-04-26T13:28:58.519Z",
+      "notes": "review session, hash map count+scan, misses O(1) follow-up — TODO: Boyer-Moore Voting"
     }
   ]
 }
