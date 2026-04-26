@@ -29,6 +29,11 @@
       "file": "leetcode/242_valid_anagram.ts",
       "date": "2026-04-26T06:41:58.003Z",
       "notes": "review session, hash map count+decrement, redundant has() check noted, int[26] better for ASCII"
+    },
+    {
+      "file": "leetcode/1768_merge_strings_alternately.ts",
+      "date": "2026-04-26T06:53:03.463Z",
+      "notes": "review session, single pointer common prefix + slice tail, array+join avoids O(n^2) concat"
     }
   ]
 }
