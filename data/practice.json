@@ -14,6 +14,11 @@
       "file": "leetcode/88_merge_sorted_array.ts",
       "date": "2026-04-26T06:05:31.565Z",
       "notes": "review session, two-pointer from end, while(p2>=0) skips redundant nums1 copy"
+    },
+    {
+      "file": "leetcode/121_best_time_to_buy_and_sell_stock.ts",
+      "date": "2026-04-26T06:28:47.106Z",
+      "notes": "review session, running min + max diff, Kadane-family pattern"
     }
   ]
 }
