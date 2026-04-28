@@ -161,6 +161,13 @@
       "category": "Array",
       "patterns": ["Array", "Hash Table", "Counting"],
       "companies": []
+    },
+    "hackerrank/insert_a_node_at_a_specific_position_in_a_linked_list.ts": {
+      "title": "Insert a node at a specific position in a linked list",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "patterns": ["Linked List"],
+      "companies": []
     }
   },
   "corePatterns": [
