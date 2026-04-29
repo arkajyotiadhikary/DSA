@@ -168,6 +168,13 @@
       "category": "Linked List",
       "patterns": ["Linked List"],
       "companies": []
+    },
+    "geeksforgeeks/linked_list/reverse_a_linked_list.ts": {
+      "title": "Reverse a Linked List",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "patterns": ["Linked List"],
+      "companies": []
     }
   },
   "corePatterns": [
