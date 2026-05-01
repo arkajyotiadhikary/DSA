@@ -175,6 +175,13 @@
       "category": "Linked List",
       "patterns": ["Linked List"],
       "companies": []
+    },
+    "geeksforgeeks/linked_list/rotate_a_linked_list.ts": {
+      "title": "Rotate a Linked List",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "patterns": ["Linked List"],
+      "companies": []
     }
   },
   "corePatterns": [

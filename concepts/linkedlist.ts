@@ -87,6 +87,36 @@ function revList(head: ListNode | null): ListNode | null {
     return prev
 }
 
+function rotateList(head: ListNode | null, k:number): ListNode | null {
+    if(!head) return null
+
+    let tail = head
+    let lenght = 1
+
+    while(tail.next !== null)
+    {
+        tail = tail.next
+        lenght++
+    }
+
+    k %= lenght
+    if(k === 0) return head
+
+    tail.next = head
+
+    let newTail = tail
+
+    for(let i = 0; i <= lenght - k - 1; i++)
+    {
+        newTail = newTail.next!
+    }
+
+    const newHead = newTail.next
+    newTail.next = null
+
+    return newHead
+}
+
 // initializng the list with 12
 
 let list = new ListNode(12)
