@@ -64,6 +64,11 @@
       "file": "leetcode/209_minimum_size_subarray_sum.ts",
       "date": "2026-05-02T18:34:42.031Z",
       "notes": "review: sliding window, fixed >= condition + measure-before-shrink"
+    },
+    {
+      "file": "leetcode/121_best_time_to_buy_and_sell_stock.ts",
+      "date": "2026-05-02T18:50:17.709Z",
+      "notes": "review: single-pass min tracking, optimal O(n)/O(1)"
     }
   ]
 }
