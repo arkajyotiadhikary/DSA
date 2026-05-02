@@ -74,6 +74,11 @@
       "file": "leetcode/75_sort_Colors.ts",
       "date": "2026-05-02T18:55:51.641Z",
       "notes": "review: Dutch flag one-pass, O(n)/O(1)"
+    },
+    {
+      "file": "geeksforgeeks/strings/string_rotation.ts",
+      "date": "2026-05-02T19:02:23.604Z",
+      "notes": "review: s1+s1 trick + length guard, O(n)"
     }
   ]
 }
