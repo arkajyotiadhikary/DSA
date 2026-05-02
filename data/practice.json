@@ -59,6 +59,11 @@
       "file": "leetcode/26_remove_duplicates.ts",
       "date": "2026-04-26T13:45:23.474Z",
       "notes": "review session, slow/fast two-pointer in-place dedup, p1 = boundary of kept region"
+    },
+    {
+      "file": "leetcode/209_minimum_size_subarray_sum.ts",
+      "date": "2026-05-02T18:34:42.031Z",
+      "notes": "review: sliding window, fixed >= condition + measure-before-shrink"
     }
   ]
 }
