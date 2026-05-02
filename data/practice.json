@@ -84,6 +84,11 @@
       "file": "leetcode/189_rotate_array.ts",
       "date": "2026-05-02T19:12:33.408Z",
       "notes": "review: three-reversal in-place, O(n)/O(1)"
+    },
+    {
+      "file": "leetcode/242_valid_anagram.ts",
+      "date": "2026-05-02T19:18:13.945Z",
+      "notes": "review: freq map, O(n)/O(k), Unicode-safe"
     }
   ]
 }
