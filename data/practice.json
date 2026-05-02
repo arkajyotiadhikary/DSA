@@ -79,6 +79,11 @@
       "file": "geeksforgeeks/strings/string_rotation.ts",
       "date": "2026-05-02T19:02:23.604Z",
       "notes": "review: s1+s1 trick + length guard, O(n)"
+    },
+    {
+      "file": "leetcode/189_rotate_array.ts",
+      "date": "2026-05-02T19:12:33.408Z",
+      "notes": "review: three-reversal in-place, O(n)/O(1)"
     }
   ]
 }
