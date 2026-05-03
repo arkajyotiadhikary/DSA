@@ -121,6 +121,11 @@
       "file": "geeksforgeeks/arrays/second_largest.ts",
       "date": "2026-05-04T10:15:00.000Z",
       "notes": "review: single-pass largest+second, i<largest guard handles dupes of max, O(n)/O(1). Nit: -Infinity-1 sentinel === -Infinity, use -1 instead"
+    },
+    {
+      "file": "geeksforgeeks/linked_list/reverse_a_linked_list.ts",
+      "date": "2026-05-04T10:30:00.000Z",
+      "notes": "review: iterative three-pointer (prev/curr/next), O(n)/O(1). Recursive alt is O(n) stack — worse at n=10^5"
     }
   ]
 }
