@@ -111,6 +111,11 @@
       "file": "geeksforgeeks/arrays/move_all_zeros_to_end.ts",
       "date": "2026-05-03T15:45:00.000Z",
       "notes": "review: two-pointer swap, p1=write boundary, stable since arr[p1] always 0 at swap, O(n)/O(1)"
+    },
+    {
+      "file": "leetcode/27_remove_element.ts",
+      "date": "2026-05-04T10:00:00.000Z",
+      "notes": "review: two-pointer overwrite, p1=write boundary, swap-from-end alt minimizes writes when val rare, O(n)/O(1)"
     }
   ]
 }
