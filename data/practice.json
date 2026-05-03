@@ -116,6 +116,11 @@
       "file": "leetcode/27_remove_element.ts",
       "date": "2026-05-04T10:00:00.000Z",
       "notes": "review: two-pointer overwrite, p1=write boundary, swap-from-end alt minimizes writes when val rare, O(n)/O(1)"
+    },
+    {
+      "file": "geeksforgeeks/arrays/second_largest.ts",
+      "date": "2026-05-04T10:15:00.000Z",
+      "notes": "review: single-pass largest+second, i<largest guard handles dupes of max, O(n)/O(1). Nit: -Infinity-1 sentinel === -Infinity, use -1 instead"
     }
   ]
 }
