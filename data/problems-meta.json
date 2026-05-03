@@ -78,6 +78,13 @@
       "patterns": ["Array", "Dynamic Programming"],
       "companies": ["Amazon", "Apple", "Bloomberg", "NVIDIA", "Google"]
     },
+    "leetcode/125_valid_palindrome.ts": {
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "category": "String",
+      "patterns": ["Two Pointers", "String"],
+      "companies": ["Meta", "Apple", "Microsoft", "Bloomberg", "Amazon"]
+    },
     "geeksforgeeks/arrays/majority_element_II.ts": {
       "title": "Majority Element - More Than n/3",
       "difficulty": "Medium",
