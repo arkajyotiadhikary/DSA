@@ -94,7 +94,7 @@ function rotateList(head: ListNode | null, k:number): ListNode | null {
     let lenght = 1
 
     while(tail.next !== null)
-    {
+    {   
         tail = tail.next
         lenght++
     }

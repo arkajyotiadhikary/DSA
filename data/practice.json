@@ -89,6 +89,10 @@
       "file": "leetcode/242_valid_anagram.ts",
       "date": "2026-05-02T19:18:13.945Z",
       "notes": "review: freq map, O(n)/O(k), Unicode-safe"
+    },
+    {
+      "file": "hackerrank/insert_a_node_at_a_specific_position_in_a_linked_list.ts",
+      "date": "2026-05-03T14:27:03.942Z"
     }
   ]
 }
