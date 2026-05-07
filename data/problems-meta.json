@@ -189,6 +189,13 @@
       "category": "Linked List",
       "patterns": ["Linked List"],
       "companies": []
+    },
+    "hackerrank/counting_valleys.ts": {
+      "title": "Counting Valleys",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Simulation", "Counting"],
+      "companies": []
     }
   },
   "corePatterns": [
