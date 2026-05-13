@@ -196,6 +196,13 @@
       "category": "Array",
       "patterns": ["Simulation", "Counting"],
       "companies": []
+    },
+    "interviewbit/arrays/spiral_order_matrix_I.ts": {
+      "title": "Spiral Order Matrix I",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Matrix", "Simulation"],
+      "companies": []
     }
   },
   "corePatterns": [
@@ -221,6 +228,7 @@
     "Divide and Conquer",
     "Counting",
     "Simulation",
-    "String Matching"
+    "String Matching",
+    "Matrix"
   ]
 }
