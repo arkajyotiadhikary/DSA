@@ -140,6 +140,11 @@
       "file": "leetcode/209_minimum_size_subarray_sum.ts",
       "date": "2026-05-14T14:00:33.276Z",
       "notes": "sliding window, clean O(n) solve"
+    },
+    {
+      "file": "leetcode/121_best_time_to_buy_and_sell_stock.ts",
+      "date": "2026-05-14T14:12:37.497Z",
+      "notes": "greedy one-pass, clean O(n) solve"
     }
   ]
 }
