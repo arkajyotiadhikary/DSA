@@ -135,6 +135,11 @@
       "file": "geeksforgeeks/linked_list/rotate_a_linked_list.ts",
       "date": "2026-05-04T10:45:00.000Z",
       "notes": "review: circular-link rotation, k%=count handles k>n, walk k-1 to new tail then break, O(n)/O(1). Nit: rename newNode→newTail"
+    },
+    {
+      "file": "leetcode/209_minimum_size_subarray_sum.ts",
+      "date": "2026-05-14T14:00:33.276Z",
+      "notes": "sliding window, clean O(n) solve"
     }
   ]
 }
