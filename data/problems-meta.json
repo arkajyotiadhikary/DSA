@@ -210,6 +210,13 @@
       "category": "Array",
       "patterns": ["Array", "Greedy"],
       "companies": []
+    },
+    "interviewbit/arrays/max_sum_contiguous_subarray.ts": {
+      "title": "Max Sum Contiguous Subarray",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Dynamic Programming"],
+      "companies": []
     }
   },
   "corePatterns": [
