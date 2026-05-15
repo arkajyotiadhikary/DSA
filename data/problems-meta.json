@@ -203,6 +203,13 @@
       "category": "Array",
       "patterns": ["Array", "Matrix", "Simulation"],
       "companies": []
+    },
+    "hackerrank/jumping_on_the_clouds.ts": {
+      "title": "Jumping on the Clouds",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Greedy"],
+      "companies": []
     }
   },
   "corePatterns": [
