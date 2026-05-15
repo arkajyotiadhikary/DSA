@@ -217,6 +217,13 @@
       "category": "Array",
       "patterns": ["Array", "Dynamic Programming"],
       "companies": []
+    },
+    "leetcode/122_best_time_to_buy_and_sell_stock_II.ts": {
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "category": "Array",
+      "patterns": ["Array", "Dynamic Programming", "Greedy"],
+      "companies": ["Amazon", "Apple", "Bloomberg", "Google", "Microsoft"]
     }
   },
   "corePatterns": [
